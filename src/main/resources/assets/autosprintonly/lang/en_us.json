@@ -1,0 +1,13 @@
+{
+  "gui.autosprintonly.title": "AutoSprint Only",
+  "gui.autosprintonly.enabled": "AutoSprint Enabled",
+  "gui.autosprintonly.show_hud": "Show HUD",
+  "gui.autosprintonly.hud_editor": "HUD Editor",
+  "gui.autosprintonly.done": "Done",
+  "gui.autosprintonly.hud_scale": "HUD Scale: %sx",
+
+  "key.autosprintonly.toggle": "Toggle AutoSprint",
+  "key.autosprintonly.open_gui": "Open AutoSprint Settings",
+  "key.autosprintonly.hud_editor": "AutoSprint HUD Editor",
+  "key.category.autosprintonly.main": "AutoSprint Only"
+}

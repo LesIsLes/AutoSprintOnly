@@ -1,0 +1,20 @@
+{
+	"schemaVersion": 1,
+	"id": "autosprintonly",
+	"version": "${version}",
+	"name": "AutoSprint Only",
+	"description": "A lightweight mod: AutoSprint only, featuring a hunger check and a HUD editor.",
+	"authors": ["LesIsLes"],
+	"license": "MIT",
+	"icon": "assets/autosprintonly/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"client": ["com.autosprintonly.AutoSprintOnly"]
+	},
+	"depends": {
+		"fabricloader": ">=0.16.0",
+		"fabric-api": "*",
+		"minecraft": "~1.21.11",
+		"java": ">=21"
+	}
+}

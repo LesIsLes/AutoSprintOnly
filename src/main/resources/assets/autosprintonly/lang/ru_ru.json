@@ -1,0 +1,13 @@
+{
+  "gui.autosprintonly.title": "AutoSprint Only",
+  "gui.autosprintonly.enabled": "Включить AutoSprint",
+  "gui.autosprintonly.show_hud": "Показывать HUD",
+  "gui.autosprintonly.hud_editor": "Редактор HUD",
+  "gui.autosprintonly.done": "Готово",
+  "gui.autosprintonly.hud_scale": "Размер HUD: %sx",
+
+  "key.autosprintonly.toggle": "Вкл/Выкл AutoSprint",
+  "key.autosprintonly.open_gui": "Открыть настройки AutoSprint",
+  "key.autosprintonly.hud_editor": "Редактор HUD AutoSprint",
+  "key.category.autosprintonly.main": "AutoSprint Only"
+}
