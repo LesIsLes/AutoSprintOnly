@@ -2,8 +2,9 @@
 
 ## Setup
 
-For setup instructions, please see the [Fabric Documentation page](https://docs.fabricmc.net/develop/getting-started/creating-a-project#setting-up) related to the IDE that you are using.
+Setup
+To configure this mod, you need to open the GUI, which contains the main AutoSprint settings. If you wish to change the position of the AutoSprint status indicator, use the HUD Editor (accessible via the F6 key).
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+This mod is licensed under the MIT License; it is free to use and distribute, but please remember to credit the creator.
